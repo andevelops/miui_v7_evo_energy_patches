@@ -1,0 +1,2 @@
+appfile <framework-res.apk>;
+copy "%here%/storage_list.xml" "%res%/xml/storage_list.xml";
